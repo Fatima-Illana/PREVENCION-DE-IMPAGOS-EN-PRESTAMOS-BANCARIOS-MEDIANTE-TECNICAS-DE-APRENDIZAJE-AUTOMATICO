@@ -18,9 +18,9 @@ El dataset contiene información crediticia y financiera de individuos de la eco
 
 ## Herramientas:
 
-1. **Python
-2. **Scikit-learn (para el modelado)
-3. **Pandas y NumPy (para manejo de datos)
-4. **GridSearchCV y StratifiedKFold (para optimización de hiperparámetros y validación cruzada)
+1. **Python**
+2. **Scikit-learn (para el modelado)**
+3. **Pandas y NumPy (para manejo de datos)**
+4. **GridSearchCV y StratifiedKFold (para optimización de hiperparámetros y validación cruzada)**
 
 
