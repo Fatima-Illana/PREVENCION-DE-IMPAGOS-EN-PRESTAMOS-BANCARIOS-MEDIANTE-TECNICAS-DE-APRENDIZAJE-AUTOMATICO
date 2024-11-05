@@ -1,6 +1,10 @@
 # PREVENCION DE IMPAGOS EN PRESTAMOS BANCARIOS MEDIANTE TECNICAS DE APRENDIZAJE AUTOMATICO
 Este proyecto predice la aptitud de clientes para recibir préstamos bancarios utilizando aprendizaje supervisado. Para ello se realiza el preprocesado de los datos y se emplean modelos como K-NN, Árboles de Decisión, Regresión Logística y SVM, optimizando la precisión y minimizando falsos positivos, clave para reducir el riesgo financiero.
 
+## Autor
+
+- [Fátima Fuchun Illana Guerra](https://github.com/Fatima-Illana)
+
 ## Descripción
 
 Utilizamos el dataset `Statlog (German Credit Data)` para predecir la aptitud crediticia de los individuos. El dataset incluye variables numéricas, categóricas y ordinales. Implementamos cuatro algoritmos principales:
